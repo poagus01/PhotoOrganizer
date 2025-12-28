@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "qtO2+9VB6uU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Photos_organizer\\PhotoOrganizer\\PhotoOrganizer.CLI\\PhotoOrganizer.CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\metadataextractor\\2.9.0\\metadataextractor.2.9.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.1\\microsoft.win32.systemevents.10.0.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\photosauce.magicscaler\\0.15.0\\photosauce.magicscaler.0.15.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.drawing.common\\10.0.1\\system.drawing.common.10.0.1.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\xmpcore\\6.1.10.1\\xmpcore.6.1.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\PhotoOrganizer.Core.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\PhotoOrganizer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\PhotoOrganizer.Core.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\PhotoOrganizer.Core.AssemblyInfo.cs
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\PhotoOrganizer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\bin\Debug\net9.0\PhotoOrganizer.Core.deps.json
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\bin\Debug\net9.0\PhotoOrganizer.Core.dll
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\bin\Debug\net9.0\PhotoOrganizer.Core.pdb
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\PhotoOrganizer.Core.dll
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\refint\PhotoOrganizer.Core.dll
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\PhotoOrganizer.Core.pdb
+C:\Users\Gustavo\Photos_organizer\PhotoOrganizer\PhotoOrganizer.Core\obj\Debug\net9.0\ref\PhotoOrganizer.Core.dll
